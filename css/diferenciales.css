@@ -1,0 +1,28 @@
+.diferenciales {
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+}
+
+.diferenciales__lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.diferenciales__item {
+    max-width: 350px;
+    box-sizing: border-box;
+    padding: 2rem 0 2rem 5rem;
+}
+
+.item__titulo {
+    color: var(--fuente-ceniza-oscuro);
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+}
+
+.item__texto {
+    line-height: normal;
+}

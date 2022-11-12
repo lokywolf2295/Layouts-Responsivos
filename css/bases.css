@@ -30,6 +30,10 @@
     /* Fuente */
 --monserrat: 'Monserrat', sans-serif;
 --open-sans: 'Open sans', sans-serif;
+
+    /* Sombra */
+--sombra-destacados: #00000020;
+--sombra-planes: #00000010;
 }
 
 body{
