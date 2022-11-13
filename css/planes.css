@@ -1,6 +1,5 @@
 .planes {
     background-color: var(--background-ceniza-claro);
-    
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
@@ -12,7 +11,6 @@
     font-family: var(--montserrat);
     text-transform: uppercase;
     text-align: center;
-
     margin-bottom: 1.25rem;
 }
 
@@ -25,14 +23,10 @@
 .tarjetas {
     display: flex;
     flex-direction: column;
-
     background-color: var(--background-blanco);
-
     width: 100%;
     max-width: 300px;
-
     margin-bottom: 2rem;
-
     border-radius: 5px;
     box-shadow: 0 2px 10px 2px var(--sombra-planes);
 }
@@ -41,11 +35,8 @@
     font-weight: 700;
     font-size: 1.5rem;
     text-align: center;
-
     padding: .75rem 0;
-
     margin-bottom: .5rem;
-
     border-bottom: 1px solid var(--background-azul-claro);
 }
 
@@ -57,7 +48,6 @@
     font-weight: 700;
     font-size: 3rem;
     text-align: center;
-
     margin-top: 1.25rem;
     margin-bottom: 1.25rem;
 }
@@ -70,13 +60,9 @@
 .tarjetas__boton {
     font-size: 1.2rem;
     font-weight: 700;
-
     width: 100%;
-
     align-self: center;
-
     padding: .75rem 2rem;
-
     margin-top: 1rem;
     margin-bottom: 1rem;
 }

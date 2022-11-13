@@ -26,3 +26,15 @@
 .item__texto {
     line-height: normal;
 }
+
+.diferenciales__item-reloj{
+    background-image: url(../img/icono-reloj.png);
+}
+
+.diferenciales__item-dinero{
+    background-image: url(../img/icono-dinero.png);
+}
+
+.diferenciales__item-quimica{
+    background-image: url(../img/icono-quimica.png);
+}

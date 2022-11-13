@@ -2,29 +2,24 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-
     color: var(--background-blanco);
     text-align: center;
-    
     background-color: var(--background-llamada-mobile);
-
     padding-top: 12.25rem;
     padding-bottom: 2.5rem;
 }
 
 .llamada__titulo {
-    font-family: 'Montserrat', serif;
+    font-family: var(--monserrat);
     font-size: 2rem;
     font-weight: 700;
     text-transform: uppercase;
-
     margin-bottom: 1.5rem;
 }
 
 .llamada__texto {
     font-size: 1.25rem;
     line-height: normal;
-
     margin: 0 auto 2.5rem;
 }
 
